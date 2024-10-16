@@ -11,3 +11,6 @@ https://www.egat.co.th/home/publishing/tag: 3203de855ab029a4b8a84dc975da6a83
 https://www.egat.co.th/home/sitemap/tag: 3203de855ab029a4b8a84dc975da6a83
 https://www.egat.co.th/privacy-policy.htmltag: 3203de855ab029a4b8a84dc975da6a83
 https://www.egat.co.th/cookies-policy.htmltag: 3203de855ab029a4b8a84dc975da6a83
+
+https://law.go.thhttps://en.wikipedia.org/wiki/Loei_province
+https://law.go.thhttps://en.m.wikipedia.org/wiki/Chiang_Khan_district
